@@ -1,0 +1,1 @@
+Desafio Monitoramento de Consumo de Energia: Projeto desenvolvido em linguagem C com o objetivo de monitorar e analisar o consumo semanal de energia elétrica de diferentes laboratórios. Aborda conceitos de manipulação de matrizes, modularização por funções, estruturas de repetição e análise de dados, permitindo gerar relatórios e identificar padrões de consumo.
